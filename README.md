@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SHIFAT-Arman&label=Profile views&color=0e75b6&style=flat" alt="SHIFAT-Arman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHIFAT-Arman" alt="SHIFAT-Arman" /></a> </p>
-
 - 🔭 I'm currently working on **a Full-Stack Project without any framework**
 
 - 🌱 I'm currently learning **PHP**
