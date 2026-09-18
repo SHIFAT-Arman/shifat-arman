@@ -10,17 +10,6 @@
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/SHIFAT-Arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SHIFAT-Arman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zireael-shifat-arman-shiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zireael-shifat-arman-shiam" height="30" width="40" /></a>
-<a href="https://kaggle.com/shifatarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shifatarman" height="30" width="40" /></a>
-<a href="https://leetcode.com/SHIFAT-Arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SHIFAT-Arman" height="30" width="40" /></a>
-</p>
-
-Here's a clean, well-organized version for your GitHub README:
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 ### Languages
@@ -78,6 +67,14 @@ Here's a clean, well-organized version for your GitHub README:
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/SHIFAT-Arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SHIFAT-Arman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zireael-shifat-arman-shiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zireael-shifat-arman-shiam" height="30" width="40" /></a>
+<a href="https://kaggle.com/shifatarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shifatarman" height="30" width="40" /></a>
+<a href="https://leetcode.com/SHIFAT-Arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SHIFAT-Arman" height="30" width="40" /></a>
 </p>
 
 [![Shifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIFAT-Arman&hide=stars,issues&show=prs_merged_percentage&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
